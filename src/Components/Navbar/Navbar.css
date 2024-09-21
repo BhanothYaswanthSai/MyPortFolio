@@ -50,7 +50,7 @@
 .nav-mob-open{
     display: none;
 }
-@media (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .navbar {
         margin: 20px 50px;
     }
